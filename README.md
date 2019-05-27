@@ -12,6 +12,8 @@
 
 - https://faith-developer.tistory.com/66
 
+- https://rollout.io/blog/realm-database-tutorial-get-started-quickly-swift/
+
 - https://medium.com/programming-with-swift/getting-started-with-realm-database-for-ios-in-swift-4-4a246229e6a1
 
 - https://academy.realm.io/kr/posts/realm-swift-live-coding-beginner/
