@@ -13,3 +13,7 @@ https://blog.naver.com/PostView.nhn?blogId=hyer1k&logNo=221323000127&parentCateg
 https://medium.com/programming-with-swift/getting-started-with-realm-database-for-ios-in-swift-4-4a246229e6a1
 
 https://academy.realm.io/kr/posts/realm-swift-live-coding-beginner/
+
+- Realm으로 iOS To-Do-LIST 만들기 동영상(YouTube)
+
+https://www.youtube.com/watch?v=VawMhu4xBI4
