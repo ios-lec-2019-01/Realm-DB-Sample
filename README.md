@@ -21,3 +21,6 @@
 3. Realm으로 iOS To-Do-LIST 만들기 동영상(YouTube)
 
 - https://www.youtube.com/watch?v=VawMhu4xBI4
+
+4. Note App
+- https://dev.to/jordanosterberg/-realm-database-guide---building-a-note-app-in-swift-for-ios-4dbl
