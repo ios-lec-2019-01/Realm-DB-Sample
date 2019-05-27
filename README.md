@@ -1,19 +1,19 @@
-- CocoaPod 설치 
+1. CocoaPod 설치 
 
-1. https://zetal.tistory.com/entry/CocoaPod-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%82%AC%EC%9A%A9%EB%B2%95
+- https://zetal.tistory.com/entry/CocoaPod-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%82%AC%EC%9A%A9%EB%B2%95
 
-- 오픈소스 모바일 데이터베이스 Realm 사용법
+2. 오픈소스 모바일 데이터베이스 Realm 사용법
 
-https://stack07142.tistory.com/81
+- https://stack07142.tistory.com/81
 
-https://blog.naver.com/PostView.nhn?blogId=hyer1k&logNo=221323101645&parentCategoryNo=&categoryNo=13&viewDate=&isShowPopularPosts=true&from=search
+- https://blog.naver.com/PostView.nhn?blogId=hyer1k&logNo=221323101645&parentCategoryNo=&categoryNo=13&viewDate=&isShowPopularPosts=true&from=search
 
-https://blog.naver.com/PostView.nhn?blogId=hyer1k&logNo=221323000127&parentCategoryNo=&categoryNo=15&viewDate=&isShowPopularPosts=true&from=search
+- https://blog.naver.com/PostView.nhn?blogId=hyer1k&logNo=221323000127&parentCategoryNo=&categoryNo=15&viewDate=&isShowPopularPosts=true&from=search
 
-https://medium.com/programming-with-swift/getting-started-with-realm-database-for-ios-in-swift-4-4a246229e6a1
+- https://medium.com/programming-with-swift/getting-started-with-realm-database-for-ios-in-swift-4-4a246229e6a1
 
-https://academy.realm.io/kr/posts/realm-swift-live-coding-beginner/
+- https://academy.realm.io/kr/posts/realm-swift-live-coding-beginner/
 
-- Realm으로 iOS To-Do-LIST 만들기 동영상(YouTube)
+3. Realm으로 iOS To-Do-LIST 만들기 동영상(YouTube)
 
-https://www.youtube.com/watch?v=VawMhu4xBI4
+- https://www.youtube.com/watch?v=VawMhu4xBI4
