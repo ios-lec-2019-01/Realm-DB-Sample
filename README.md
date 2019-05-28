@@ -4,7 +4,7 @@
 
 * Podfile 내용에 *pod 'RealmSwift'* 추가
 
-```C
+```Shell
 
 # Uncomment the next line to define a global platform for your project
 # platform :ios, '9.0'
