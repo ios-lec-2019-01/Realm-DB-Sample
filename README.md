@@ -4,9 +4,9 @@
 
 * Podfile 내용에 *pod 'RealmSwift'* 추가
 
-```ruby
+```C
 code block
-```
+
 # Uncomment the next line to define a global platform for your project
 # platform :ios, '9.0'
 
@@ -17,7 +17,7 @@ target 'SampleRealm' do
 pod 'RealmSwift'
   # Pods for SampleRealm
 end
-~~~
+
 
 2. 오픈소스 모바일 데이터베이스 Realm 사용법
 
