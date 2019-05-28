@@ -2,7 +2,7 @@
 
 - https://zetal.tistory.com/entry/CocoaPod-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%82%AC%EC%9A%A9%EB%B2%95
 
--> 'Podfile" 에 pod 'RealmSwift' 추가
+-> 'Podfile" 에 *pod 'RealmSwift'* 추가
 
 2. 오픈소스 모바일 데이터베이스 Realm 사용법
 
