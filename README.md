@@ -1,5 +1,7 @@
 1. CocoaPod 설치 
 
+- CocoaPod 홈페이지 : https://cocoapods.org/
+
 - https://zetal.tistory.com/entry/CocoaPod-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%82%AC%EC%9A%A9%EB%B2%95
 
 * Podfile 내용에 *pod 'RealmSwift'* 추가
