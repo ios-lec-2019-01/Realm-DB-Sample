@@ -36,7 +36,9 @@ end
 
 - https://academy.realm.io/kr/posts/realm-swift-live-coding-beginner/
 
-3. Realm으로 iOS To-Do-LIST 만들기 동영상(YouTube)
+3. Realm으로 iOS To-Do-LIST 만들기 
+
+- https://irekasoft.com/blog/todo-list-with-realm-swift
 
 - https://www.youtube.com/watch?v=VawMhu4xBI4
 
